@@ -1,5 +1,3 @@
-# Olá!
-
 My name is Vinicius Vieira. I am a programmer living in Brazil.
 
 📫 Contato: viniciuspadilhavieira@hotmail.com
