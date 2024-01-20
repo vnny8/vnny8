@@ -1,3 +1,5 @@
+<h1 align="center">Vinicius Padilha Vieira</h1>
+
 My name is Vinicius Vieira. I am a programmer living in Brazil.
 
 📫 Contato: viniciuspadilhavieira@hotmail.com
@@ -11,19 +13,11 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?&logo=openjdk&logoColor=orange" alt="Java logo" title="Java" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?&logo=python&logoColor=green" alt="Python logo" title="Python" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C-282C34?&logo=c&logoColor=blue" alt="C logo" title="C" height="25"/>][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Spring-282C34?&logo=spring&logoColor=green" alt="Spring logo" title="Spring" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>][tech_tools_anchor]
 &nbsp;
@@ -31,10 +25,17 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Spring-282C34?&logo=spring&logoColor=green" alt="Spring logo" title="Spring" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Django-282C34?&logo=django&logoColor=white" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+&nbsp;
+
 
 ## 🔍  Where to find me
 
