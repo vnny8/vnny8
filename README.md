@@ -42,10 +42,6 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/vinicius.pdv/)&nbsp;
 
-<a href="https://github.com/vnny8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vnny8&repo=github-readme-stats" />
-</a>
-
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
