@@ -35,6 +35,8 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 &nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?&logo=django&logoColor=white" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?&logo=bootstrap&logoColor=purple" alt="Bootstrap logo" title="Bootstrap" height="25"/>][tech_tools_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/Spring_Security-282C34?&logo=Spring-Security&logoColor=green" alt="Spring Security logo" title="Spring Security" height="25"/>][tech_tools_anchor]&nbsp;
 
 
 ## 🔍  Where to find me
