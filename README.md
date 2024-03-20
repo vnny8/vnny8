@@ -19,7 +19,7 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 &nbsp;
 [<img src="https://img.shields.io/badge/C-282C34?&logo=c&logoColor=blue" alt="C logo" title="C" height="25"/>][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/postgresql-4169e1?style=plastic&logo=postgresql&logoColor=white" alt="C logo" title="C" height="25"/>][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/postgresql-282C34?style=plastic&logo=postgresql&logoColor=white" alt="C logo" title="C" height="25"/>][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>][tech_tools_anchor]
 &nbsp;
