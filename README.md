@@ -44,7 +44,7 @@ My name is Vinicius Vieira. I am a programmer living in Brazil.
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/vinicius.pdv/)&nbsp;
-<a href="https://www.linkedin.com/in/vinícius-vieira-2918a1236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vinícius-vieira-2918a1236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
