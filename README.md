@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Olá, Sou Vinicius Vieira👋</h1>
 
 ###
 
-<p align="center">My name is Vinicius Vieira. I am a programmer living in Brazil.</p>
+<h4 align="center"><b>Desenvolvedor Full Stack</b></h4>
 
 ###
 
-<h2 align="center">I am currently in the 5th semester of my Computer Science degree. I am a developer focused on back-end development, APIs, and fullstack.</h2>
+<h2 align="center">Atualmente no 7º semestre da graduação em Ciência da Computação, atuo como desenvolvedor(a) com ênfase em tecnologias back-end, desenvolvimento de APIs e soluções fullstack.</h2>
 
 ###
 
-<h2 align="center">Let's connect!</h2>
+<h2 align="center">Vamos nos conectar!</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Technologies:</h2>
+<h2 align="center">Tecnologias:</h2>
 
 ###
 
