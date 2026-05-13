@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Atualmente no 7º semestre da graduação em Ciência da Computação, atuo como desenvolvedor(a) com ênfase em tecnologias back-end, desenvolvimento de APIs e soluções fullstack.</h2>
+<h2 align="center">Bacharelado em Ciência da Computação pela UFMT, atuo como desenvolvedor(a) com ênfase em tecnologias back-end, desenvolvimento de APIs e soluções fullstack.</h2>
 
 ###
 
